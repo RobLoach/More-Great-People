@@ -1,6 +1,6 @@
 # More Great People for Unciv
 
-[Unciv](https://github.com/yairm210/Unciv) mod to
+[Unciv](https://github.com/yairm210/Unciv) mod to add more contextual Great People names.
 
 ## Sources
 
