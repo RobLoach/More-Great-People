@@ -559,6 +559,294 @@
             "Merchant"
         ]
     }
+
+	{
+		"name": "[Artist] - [Ancient era]",
+		"unitNames": [
+			"Rishabha",
+			"Mahavira",
+			"Zhuang Zhou",
+			"Mo Di"
+		],
+		"uniques": [
+			"Only available <during the [Ancient era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Ancient era]",
+		"unitNames": [
+			"Confucius",
+			"Lao Tzu",
+			"Mencius",
+			"Yajnavalkya",
+			"Zoroaster"
+		],
+		"uniques": [
+			"Only available <during the [Ancient era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Ancient era]",
+		"unitNames": [
+			"Orpheus"
+		],
+		"uniques": [
+			"Only available <during the [Ancient era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Classical era]",
+		"unitNames": [
+			"Mani",
+			"Pythagoras"
+		],
+		"uniques": [
+			"Only available <during the [Classical era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Classical era]",
+		"unitNames": [
+			"Gautama Buddha",
+			"Kabir",
+			"Hermes Trismegistus",
+			"Jesus of Nazareth",
+			"Isaiah",
+			"Elijah",
+			"Ezekiel",
+			"Moses"
+		],
+		"uniques": [
+			"Only available <during the [Classical era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Classical era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Classical era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Medieval era]",
+		"unitNames": [
+			"Adi Shankara",
+			"Tsongkhapa",
+			"Atisha",
+			"Paracelsus",
+			"Sugawara no Michizane",
+			"Motoori Norinaga"
+		],
+		"uniques": [
+			"Only available <during the [Medieval era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Medieval era]",
+		"unitNames": [
+			"Hildegard of Bingen",
+			"Iamblichus",
+			"Julian the Theurgist",
+			"Jacob Boehme",
+			"Ali ibn Abi Talib",
+			"Al-Ghazali",
+			"Isaac Luria",
+			"Abraham Abulafia",
+			"Nagarjuna"
+		],
+		"uniques": [
+			"Only available <during the [Medieval era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Medieval era]",
+		"unitNames": [
+			"Kabir",
+			"Chaitanya Mahaprabhu"
+		],
+		"uniques": [
+			"Only available <during the [Medieval era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Renaissance era]",
+		"unitNames": [
+			"Marsilio Ficino",
+			"Paracelsus",
+			"Henry Cornelius Agrippa",
+			"Christian Rosenkreuz"
+		],
+		"uniques": [
+			"Only available <during the [Renaissance era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Renaissance era]",
+		"unitNames": [
+			"Pico della Mirandola",
+			"John Dee",
+			"Jacob Boehme",
+			"Zhu Xi",
+			"Thomas Aquinas"
+		],
+		"uniques": [
+			"Only available <during the [Renaissance era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Renaissance era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Renaissance era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Industrial era]",
+		"unitNames": [
+			"Marie Laveau",
+			"Narayana Guru",
+			"Vivekananda",
+			"Ramakrishna (Gadadhar Chattopadhyay)"
+		],
+		"uniques": [
+			"Only available <during the [Industrial era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Industrial era]",
+		"unitNames": [
+			"Emanuel Swedenborg",
+			"Allan Kardec",
+			"Helena Blavatsky",
+			"Aleister Crowley",
+			"Kabir",
+			"Chaitanya Mahaprabhu"
+		],
+		"uniques": [
+			"Only available <during the [Industrial era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Industrial era]",
+		"unitNames": [
+			"Chaitanya Mahaprabhu"
+		],
+		"uniques": [
+			"Only available <during the [Industrial era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Modern era]",
+		"unitNames": [
+			"Marie Laveau",
+			"Gerald Gardner",
+			"Yoshikazu Okada",
+			"Nakayama Miki"
+		],
+		"uniques": [
+			"Only available <during the [Modern era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Modern era]",
+		"unitNames": [
+			"Helena Blavatsky",
+			"Aleister Crowley",
+			"Emanuel Swedenborg",
+			"Allan Kardec",
+			"Ramakrishna (Gadadhar Chattopadhyay)",
+			"Vivekananda",
+			"Narayana Guru"
+		],
+		"uniques": [
+			"Only available <during the [Modern era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Modern era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Modern era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Atomic era]",
+		"unitNames": [
+			"Aleister Crowley",
+			"Gerald Gardner",
+			"Helena Blavatsky",
+			"Yoshikazu Okada"
+		],
+		"uniques": [
+			"Only available <during the [Atomic era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Atomic era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Atomic era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Atomic era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Atomic era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Information era]",
+		"unitNames": [
+			"Gerald Gardner",
+			"Helena Blavatsky",
+			"Aleister Crowley",
+			"Yoshikazu Okada"
+		],
+		"uniques": [
+			"Only available <during the [Information era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Information era]",
+		"unitNames": [
+			"L. Ron Hubbard"
+		],
+		"uniques": [
+			"Only available <during the [Information era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Information era]",
+		"unitNames": [], // TODO
+		"uniques": [
+			"Only available <during the [Information era]>",
+			"Musician"
+		]
+	}
 ]
 
 
