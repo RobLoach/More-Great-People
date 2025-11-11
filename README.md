@@ -2,6 +2,8 @@
 
 [Unciv](https://github.com/yairm210/Unciv) mod to add more contextual Great People names.
 
+![Preview](preview.png)
+
 ## Sources
 
 - [More Great People](https://steamcommunity.com/sharedfiles/filedetails/?id=3425494532) by Gaia
