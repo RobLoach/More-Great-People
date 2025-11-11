@@ -2,141 +2,57 @@
     {
         "name": "Prophet",
         "unitNames": [
-            "Moses",
-            "Mahavira",
-            "Zoroaster",
-            "Ananda",
-            "Zhuang Zhou",
-            "Confucius",
-            "Mencius",
-            "Mo Di",
-            "John the Baptist",
-            "Simon Peter",
-            "Paul the Apostle",
-            "Akiva ben Joseph",
-            "Mani",
-            "Augustine of Hippo",
-            "Saint Patrick",
-            "Adi Shankara",
-            "Atisha",
-            "Thomas Aquinas",
-            "Bahá'u'lláh",
-            "Diviciacus",
-            "Tenskwatawa",
-            "Christian Rosenkreuz",
-            "Hermes Trismegistus",
-            "Maimonides",
-            "Gesar",
-            "Tsongkhapa",
-            "Marsilio Ficino",
-            "Isaac Luria",
-            "Gadadhar Chattopadhyay",
-            "Narayana Guru",
-            "Abraham Abulafia",
-            "Abu Bakr",
-            "Kobo-Daishi",
-            "Khidr",
-            "Moses de León",
-            "Nanak Dev",
-            "Pythagoras",
-            "Nostradamus",
-            "Lao Tzu",
-            "Isaiah",
-            "Elijah",
-            "Henry Cornelius Agrippa",
-            "Gautama Buddha",
-            "Muhammad",
-            "Jesus of Nazareth",
-            "Baal Shem Tov",
-            "Iamblichus",
-            "Aleister Crowley",
-            "Helena Blavatsky",
-            "Marie Laveau",
-            "Emanuel Swedenborg",
-            "Allan Kardec",
-            "Nakayama Miki",
-            "L. Ron Hubbard",
-            "Joseph Smith",
-            "Akhenaten",
-            "Grigori Rasputin",
-            "Himiko",
-            "Mary Baker Eddy",
-            "Martin Luther",
-            "John Calvin",
-            "Ezekiel",
-            "Arius",
-            "Choe Je-u",
-            "Báb",
-            "Wulfila",
-            "Charles Taze Russell",
-            "Sojourner Truth",
-            "John Dee",
-            "Pico della Mirandola",
-            "Jacob Boehme",
-            "Ali ibn Abi Talib",
-            "Al-Ghazali",
-            "Ibrahim ibn Adham",
-            "Motoori Norinaga",
-            "Orunmila",
-            "Handsome Lake",
-            "Tlacaelel",
-            "Teb Tengri Khokhcuu",
-            "Nagarjuna",
-            "Smohalla",
-            "Wovoka",
-            "Seraphim of Sarov",
-            "Margaret Fox",
-            "Deganawida",
-            "Cassandra",
-            "Vivekananda",
-            "Zhu Xi",
-            "Ellen G. White",
-            "Jiddu Krishnamurti",
-            "Angad Dev",
-            "Hildegard of Bingen",
-            "Yajnavalkya",
-            "Popé",
-            "Myrddin Wyllt",
-            "Quanah Parker",
-            "Julian the Theurgist",
-            "Apollonius of Tyana",
-            "Simon Magus",
-            "Sabbatai Zevi",
-            "Guan Yu",
-            "Al-Hakim bi-Amr Allah",
-            "Sugawara no Michizane",
-            "Veleda",
-            "Danila Filippovich",
-            "Adapa",
-            "Orpheus",
-            "Guru Arjan",
-            "Gerald Gardner",
-            "Yoshikazu Okada",
-            "Har Gobind",
-            "Ani",
-            "Utuabzu",
-            "An-Enlilda",
-            "Rishabha",
-            "Hamza ibn 'Ali ibn Ahmad",
-            "Salih ibn Tarif",
-            "Bodhidharma",
-            "En no Gyoja",
-            "Kabir",
-            "Chaitanya Mahaprabhu",
-            "Mazdak",
-            "Tonpa Shenrab",
-            "Sultan Sahak",
-            "John Wesley",
-            "Kriwe",
-            "Adi ibn Musafir",
-            "Tages",
-            "Vegoia",
-            "Gobind Singh",
-            "Paracelsus"
+			"Adi ibn Musafir",
+			"Adi Shankara",
+			"Angad Dev",
+			"Arjan",
+			"Atisha",
+			"Báb",
+			"Bahá’u’lláh",
+			"Bodhidharma",
+			"Chaitanya Mahaprabhu",
+			"Choe Je-u",
+			"Confucius",
+			"Deganawida",
+			"Elijah",
+			"Ezekiel",
+			"Gadadhar Chattopadhyay",
+			"Gautama Buddha",
+			"Gobind Singh",
+			"Handsome Lake",
+			"Hamza ibn ‘Ali ibn Ahmad",
+			"Isaiah",
+			"Jesus of Nazareth",
+			"John the Baptist",
+			"Kabir",
+			"Lao Tzu",
+			"Mahavira",
+			"Mani",
+			"Mazdak",
+			"Mo Di",
+			"Moses",
+			"Muhammad",
+			"Nakayama Miki",
+			"Nanak Dev",
+			"Narayana Guru",
+			"Orunmila",
+			"Popé",
+			"Rishabha",
+			"Salih ibn Tarif",
+			"Smohalla",
+			"Sultan Sahak",
+			"Tenskwatawa",
+			"Tonpa Shenrab",
+			"Tsongkhapa",
+			"Vivekananda",
+			"Wovoka",
+			"Yoshikazu Okada",
+			"Zhuang Zhou",
+			"Zoroaster"
         ]
     },
     {
-        "name": "[General] [Classical era]",
+        "name": "[General] - [Classical era]",
         "unitNames": [
             "Hannibal",
             "Julius Caesar",
@@ -150,6 +66,497 @@
         "uniques": [
             "Only available <during the [Classical era]>",
             "General"
+        ]
+    },
+    {
+        "name": "[General] - [Medieval era]",
+        "unitNames": [
+            "Belisarius",
+            "Charlemagne",
+            "Genghis Khan",
+            "Tamerlane",
+            "William the Conqueror",
+            "Saladin",
+            "Richard the Lionheart",
+            "John Hawkwood",
+            "Baybars"
+        ],
+        "uniques": [
+            "Only available <during the [Medieval era]>",
+            "General"
+        ]
+    },
+    {
+        "name": "[General] - [Renaissance era]",
+        "unitNames": [
+            "Johan Tserclaes",
+            "Wallenstein",
+            "Maurice of Nassau",
+            "Don John of Austria",
+            "Napoleon Bonaparte",
+            "Duke of Wellington",
+            "Winfield Scott",
+            "Frederick the Great",
+            "Robert E. Lee",
+            "George Washington"
+        ],
+        "uniques": [
+            "Only available <during the [Renaissance era]>",
+            "General"
+        ]
+    },
+    {
+        "name": "[General] - [Industrial era]",
+        "unitNames": [
+            "Giuseppe Garibaldi",
+            "Ulysses S. Grant",
+            "William Tecumseh Sherman",
+            "Otto von Bismarck"
+        ],
+        "uniques": [
+            "Only available <during the [Industrial era]>",
+            "General"
+        ]
+    },
+    {
+        "name": "[General] - [Modern era]",
+        "unitNames": [
+            "Dwight Eisenhower",
+            "Douglas MacArthur",
+            "George Patton",
+            "Erwin Rommel",
+            "Bernard Montgomery",
+            "Vasily Zhukov"
+        ],
+        "uniques": [
+            "Only available <during the [Modern era]>",
+            "General"
+        ]
+    },
+    {
+        "name": "[General] - [Atomic era]",
+        "unitNames": [
+            "Norman Schwarzkopf",
+            "Colin Powell",
+            "Stanley McChrystal"
+        ],
+        "uniques": [
+            "Only available <during the [Atomic era]>",
+            "General"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Classical era]",
+        "unitNames": [
+            "Phormio",
+            "Marcus Atillius Regulus",
+            "Marcus Vipsanius Agrippa",
+            "Himilco",
+            "Calonymus of Alexandria"
+        ],
+        "uniques": [
+            "Only available <during the [Classical era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Medieval era]",
+        "unitNames": [
+            "John Doukas",
+            "Roger of Lauria"
+        ],
+        "uniques": [
+            "Only available <during the [Medieval era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Renaissance era]",
+        "unitNames": [
+            "Yi Sun-sin",
+            "Hayreddin Barbarossa",
+            "Turgut Reis",
+            "Murat Reis",
+            "Andrea Doria",
+            "Lord Nelson",
+            "Peter Tordenskjold",
+            "Comte de Grasse",
+            "Álvaro de Bazán",
+            "Don John of Austria",
+            "Henry the Navigator",
+            "Afonso de Albuquerque",
+            "Michiel de Ruyter",
+            "Fyodor Ushakov"
+        ],
+        "uniques": [
+            "Only available <during the [Renaissance era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Industrial era]",
+        "unitNames": [
+            "Matthew Perry",
+            "David Farragut",
+            "George Dewey",
+            "Fernando Villaamil",
+            "Zinovy Rozhestvenski",
+            "Alfred von Tirpitz"
+        ],
+        "uniques": [
+            "Only available <during the [Industrial era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Modern era]",
+        "unitNames": [
+            "Togo Heihachiro",
+            "Yamamoto Isoroku"
+        ],
+        "uniques": [
+            "Only available <during the [Modern era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Admiral] - [Atomic era]",
+        "unitNames": [
+            "Andrew Cunningham",
+            "Chester Nimitz"
+        ],
+        "uniques": [
+            "Only available <during the [Atomic era]>",
+            "Admiral"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Classical era]",
+        "unitNames": [
+            "Hippocrates",
+            "Archimedes",
+            "Hipparchus",
+            "Ptolemy",
+            "Zhang Heng",
+            "Galen"
+        ],
+        "uniques": [
+            "Only available <during the [Classical era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Medieval era]",
+        "unitNames": [
+            "Al-Khwarizmi",
+            "Alhazen",
+            "Aryabhata",
+            "Avicenna",
+            "Al-Farabi",
+            "Al-Biruni",
+            "Nasir al-Din al-Tusi",
+            "Al-Zahrawi",
+            "Omar Khayyam"
+        ],
+        "uniques": [
+            "Only available <during the [Medieval era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Renaissance era]",
+        "unitNames": [
+            "Nicolaus Copernicus",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Leonardo da Vinci",
+            "Andreas Vesalius",
+            "Tycho Brahe",
+            "Gerolamo Cardano",
+            "Mikhail Lomonosov",
+            "Antoine Lavoisier",
+            "Carl Linnaeus",
+            "Joseph Priestley",
+            "James Watt",
+            "Michael Faraday"
+        ],
+        "uniques": [
+            "Only available <during the [Renaissance era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Industrial era]",
+        "unitNames": [
+            "Gregor Mendel",
+            "Dmitry Mendeleev",
+            "Louis Pasteur",
+            "James Clerk Maxwell",
+            "Marie Curie"
+        ],
+        "uniques": [
+            "Only available <during the [Industrial era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Modern era]",
+        "unitNames": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Enrico Fermi",
+            "Werner Heisenberg",
+            "John von Neumann",
+            "Alan Turing"
+        ],
+        "uniques": [
+            "Only available <during the [Modern era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Atomic era]",
+        "unitNames": [
+            "Richard Feynman",
+            "Claude Shannon",
+            "Francis Crick",
+            "James Watson",
+            "Stephen Hawking"
+        ],
+        "uniques": [
+            "Only available <during the [Atomic era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Scientist] - [Information era]",
+        "unitNames": [
+            "Michio Kaku",
+            "Kip Thorne",
+            "Ray Kurzweil"
+        ],
+        "uniques": [
+            "Only available <during the [Information era]>",
+            "Scientist"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Ancient era]",
+        "unitNames": [
+            "Imhotep"
+        ],
+        "uniques": [
+            "Only available <during the [Ancient era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Classical era]",
+        "unitNames": [
+            "Apollonius of Perga",
+            "Vitruvius",
+            "Ctesibius",
+            "Philo of Byzantium",
+            "Heron of Alexandria"
+        ],
+        "uniques": [
+            "Only available <during the [Classical era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Medieval era]",
+        "unitNames": [
+            "Isidore of Miletus",
+            "Anthemius of Tralles",
+            "Al-Jazari",
+            "Alhazen",
+            "Leonardo Fibonacci",
+            "Yi Xing",
+            "Guo Shoujing",
+            "Filippo Brunelleschi"
+        ],
+        "uniques": [
+            "Only available <during the [Medieval era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Renaissance era]",
+        "unitNames": [
+            "Gerardus Mercator",
+            "Andrea Palladio",
+            "Blaise Pascal",
+            "Pierre Vernier",
+            "Christopher Wren",
+            "James Watt",
+            "Isambard Kingdom Brunel",
+            "George Stephenson",
+            "Eli Whitney"
+        ],
+        "uniques": [
+            "Only available <during the [Renaissance era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Industrial era]",
+        "unitNames": [
+            "Gustave Eiffel",
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Karl Benz",
+            "Gottlieb Daimler",
+            "Henry Ford",
+            "Gustaf Dalen"
+        ],
+        "uniques": [
+            "Only available <during the [Industrial era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Modern era]",
+        "unitNames": [
+            "Robert Goddard",
+            "Wernher von Braun",
+            "Frank Lloyd Wright",
+            "Le Corbusier",
+            "Buckminster Fuller",
+            "Werner Heisenberg",
+            "John von Neumann"
+        ],
+        "uniques": [
+            "Only available <during the [Modern era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Atomic era]",
+        "unitNames": [
+            "Norman Foster",
+            "Konrad Zuse",
+            "Soichiro Honda"
+        ],
+        "uniques": [
+            "Only available <during the [Atomic era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Engineer] - [Information era]",
+        "unitNames": [
+            "James Dyson",
+            "Marc Raibert"
+        ],
+        "uniques": [
+            "Only available <during the [Information era]>",
+            "Engineer"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Classical era]",
+        "unitNames": [
+            "Alyattes of Lydia",
+            "Marcus Licinius Crassus",
+            "Zhang Qian",
+            "Gan Ying"
+        ],
+        "uniques": [
+            "Only available <during the [Classical era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Medieval era]",
+        "unitNames": [
+            "Ibn Battuta",
+            "Marco Polo",
+            "Kublai Khan",
+            "Alfred the Great"
+        ],
+        "uniques": [
+            "Only available <during the [Medieval era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Renaissance era]",
+        "unitNames": [
+            "John Hawkins",
+            "Sir James Lancaster",
+            "Thomas Twining",
+            "Jakob Fugger",
+            "Lorenzo de Medici",
+            "John Law",
+            "Cornelius Vanderbilt"
+        ],
+        "uniques": [
+            "Only available <during the [Renaissance era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Industrial era]",
+        "unitNames": [
+            "Henri Nestle",
+            "Milton S. Hershey",
+            "Edward Harriman",
+            "Andrew Carnegie",
+            "John D. Rockefeller",
+            "J.P. Morgan",
+            "Levi Strauss",
+            "Isidor Straus",
+            "Werner von Siemens",
+            "Henry Ford"
+        ],
+        "uniques": [
+            "Only available <during the [Industrial era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Modern era]",
+        "unitNames": [
+            "William Boeing",
+            "Fritz Thyssen",
+            "Ray Kroc"
+        ],
+        "uniques": [
+            "Only available <during the [Modern era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Atomic era]",
+        "unitNames": [
+            "Ingvar Kamprad",
+            "Estée Lauder"
+        ],
+        "uniques": [
+            "Only available <during the [Atomic era]>",
+            "Merchant"
+        ]
+    },
+    {
+        "name": "[Merchant] - [Information era]",
+        "unitNames": [
+            "Bill Gates",
+            "Elon Musk",
+            "Jeff Bezos",
+            "Jack Ma",
+            "Mark Zuckerberg",
+            "Sam Altman",
+            "Patrick Collison",
+            "Reid Hoffman",
+            "Sundar Pichai",
+            "Steve Jobs",
+            "Tim Cook"
+        ],
+        "uniques": [
+            "Only available <during the [Information era]>",
+            "Merchant"
         ]
     }
 ]
