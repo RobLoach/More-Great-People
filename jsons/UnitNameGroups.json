@@ -212,7 +212,14 @@
 		"name": "[Admiral] - [Modern era]",
 		"unitNames": [
 			"Togo Heihachiro",
-			"Yamamoto Isoroku"
+			"Yamamoto Isoroku",
+			"Mike Mullen",
+			"Jonathan Greenert",
+			"John Richardson",
+			"James Stavridis",
+			"Mark Ferguson",
+			"Harry B. Harris Jr.",
+			"William H. McRaven"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -222,8 +229,14 @@
 	{
 		"name": "[Admiral] - [Atomic era]",
 		"unitNames": [
-			"Andrew Cunningham",
-			"Chester Nimitz"
+			"Hyman G. Rickover",
+			"Arleigh Burke",
+			"Chester W. Nimitz",
+			"Isoroku Yamamoto",
+			"Elmo Zumwalt",
+			"Bruce Fraser",
+			"Marc A. Mitscher",
+			"Louis Mountbatten"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -343,7 +356,14 @@
 	{
 		"name": "[Engineer] - [Ancient era]",
 		"unitNames": [
-			"Imhotep"
+			"Archimedes",
+			"Imhotep",
+			"Hero of Alexandria",
+			"Ctesibius",
+			"Vitruvius",
+			"Philo of Byzantium",
+			"Ktesibios",
+			"Liang Lingzan"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -448,7 +468,14 @@
 		"name": "[Engineer] - [Information era]",
 		"unitNames": [
 			"James Dyson",
-			"Marc Raibert"
+			"Marc Raibert",
+			"Tim Berners-Lee",
+			"Vint Cerf",
+			"Robert Kahn",
+			"Linus Torvalds",
+			"Steve Wozniak",
+			"Marc Andreessen",
+			"Jeff Dean"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -626,7 +653,18 @@
 	},
 	{
 		"name": "[Musician] - [Classical era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Wolfgang Amadeus Mozart",
+			"Ludwig van Beethoven",
+			"Joseph Haydn",
+			"Franz Schubert",
+			"Carl Philipp Emanuel Bach",
+			"Christoph Willibald Gluck",
+			"Muzio Clementi",
+			"Luigi Boccherini",
+			"Antonio Salieri",
+			"Johann Nepomuk Hummel",
+		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
 			"Musician"
@@ -669,7 +707,16 @@
 		"name": "[Musician] - [Medieval era]",
 		"unitNames": [
 			"Kabir",
-			"Chaitanya Mahaprabhu"
+			"Chaitanya Mahaprabhu",
+			"Hildegard von Bingen",
+			"Guido of Arezzo",
+			"Leonin",
+			"Perotin",
+			"Adam de la Halle",
+			"Walther von der Vogelweide",
+			"Philippe de Vitry",
+			"Guillaume de Machaut",
+			"John Dunstaple"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -705,7 +752,18 @@
 	},
 	{
 		"name": "[Musician] - [Renaissance era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Josquin des Prez",
+			"Giovanni Pierluigi da Palestrina",
+			"Orlando di Lasso",
+			"Thomas Tallis",
+			"William Byrd",
+			"Claudio Monteverdi",
+			"Tomás Luis de Victoria",
+			"Giovanni Gabrieli",
+			"John Dowland",
+			"Heinrich Isaac"
+		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
 			"Musician"
@@ -742,7 +800,17 @@
 	{
 		"name": "[Musician] - [Industrial era]",
 		"unitNames": [
-			"Chaitanya Mahaprabhu"
+			"Chaitanya Mahaprabhu",
+			"Pyotr Ilyich Tchaikovsky",
+			"Johannes Brahms",
+			"Gustav Mahler",
+			"Antonín Dvořák",
+			"Richard Strauss",
+			"Claude Debussy",
+			"Maurice Ravel",
+			"Giacomo Puccini",
+			"Scott Joplin",
+			"Ralph Vaughan Williams"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -780,7 +848,18 @@
 	},
 	{
 		"name": "[Musician] - [Modern era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Igor Stravinsky",
+			"Arnold Schoenberg",
+			"Béla Bartók",
+			"Sergei Prokofiev",
+			"Dmitri Shostakovich",
+			"Claude Debussy",
+			"Maurice Ravel",
+			"Philip Glass",
+			"John Cage",
+			"Olivier Messiaen"
+		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
 			"Musician"
@@ -801,7 +880,18 @@
 	},
 	{
 		"name": "[Writer] - [Atomic era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Samuel Beckett",
+			"George Orwell",
+			"Ray Bradbury",
+			"Kurt Vonnegut",
+			"J. D. Salinger",
+			"James Baldwin",
+			"Doris Lessing",
+			"Margaret Atwood",
+			"Ursula K. Le Guin",
+			"Philip K. Dick"
+		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
 			"Writer"
@@ -809,7 +899,20 @@
 	},
 	{
 		"name": "[Musician] - [Atomic era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Miles Davis",
+			"John Coltrane",
+			"Charlie Parker",
+			"Elvis Presley",
+			"Chuck Berry",
+			"Billie Holiday",
+			"Thelonious Monk",
+			"Duke Ellington",
+			"Frank Sinatra",
+			"Little Richard",
+			"Aretha Franklin",
+			"Johnny Cash"
+		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
 			"Musician"
@@ -831,7 +934,17 @@
 	{
 		"name": "[Writer] - [Information era]",
 		"unitNames": [
-			"L. Ron Hubbard"
+			"L. Ron Hubbard",
+			"William Gibson",
+			"Neal Stephenson",
+			"Don DeLillo",
+			"Haruki Murakami",
+			"Margaret Atwood",
+			"Kazuo Ishiguro",
+			"David Foster Wallace",
+			"Jonathan Franzen",
+			"China Miéville",
+			"Octavia E. Butler"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -840,7 +953,22 @@
 	},
 	{
 		"name": "[Musician] - [Information era]",
-		"unitNames": [], // TODO
+		"unitNames": [
+			"Thom Yorke",
+			"Björk Guðmundsdóttir",
+			"Thomas Bangalter",
+			"Guy-Manuel de Homem-Christo",
+			"Beyoncé",
+			"Richard D. James",
+			"Stefani Germanotta",
+			"Trent Reznor",
+			"Kendrick Lamar Duckworth",
+			"Joel Zimmerman",
+			"Taylor Swift",
+			"Alejandro Ghersi",
+			"Billie Eilish Pirate Baird O'Connell",
+			"Christopher Breaux"
+		],
 		"uniques": [
 			"Only available <during the [Information era]>",
 			"Musician"
