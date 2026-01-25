@@ -8,7 +8,7 @@
 			"Arjan",
 			"Atisha",
 			"Báb",
-			"Bahá’u’lláh",
+			"Bahá'u'lláh",
 			"Bodhidharma",
 			"Chaitanya Mahaprabhu",
 			"Choe Je-u",
@@ -20,7 +20,7 @@
 			"Gautama Buddha",
 			"Gobind Singh",
 			"Handsome Lake",
-			"Hamza ibn ‘Ali ibn Ahmad",
+			"Hamza ibn 'Ali ibn Ahmad",
 			"Isaiah",
 			"Jesus of Nazareth",
 			"John the Baptist",
@@ -244,10 +244,22 @@
 		]
 	},
 	{
+		"name": "[Scientist] - [Ancient era]",
+		"unitNames": [
+			"Archimedes",
+			"Aristotle"
+		],
+		"uniques": [
+			"Only available <during the [Ancient era]>",
+			"Scientist"
+		]
+	},
+	{
 		"name": "[Scientist] - [Classical era]",
 		"unitNames": [
+			"Hypatia",
+			"Eratosthenes",
 			"Hippocrates",
-			"Archimedes",
 			"Hipparchus",
 			"Ptolemy",
 			"Zhang Heng",
@@ -305,7 +317,13 @@
 			"Dmitry Mendeleev",
 			"Louis Pasteur",
 			"James Clerk Maxwell",
-			"Marie Curie"
+			"Marie Curie",
+			"Sadi Carnot",
+			"Dmitri Mendeleev",
+			"Alfred Nobel",
+			"Louis Pasteur",
+			"Charles Darwin",
+			"Ada Lovelace"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -334,7 +352,8 @@
 			"Claude Shannon",
 			"Francis Crick",
 			"James Watson",
-			"Stephen Hawking"
+			"Stephen Hawking",
+			"Grace Hopper"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -346,7 +365,9 @@
 		"unitNames": [
 			"Michio Kaku",
 			"Kip Thorne",
-			"Ray Kurzweil"
+			"Ray Kurzweil",
+			"Tim Berners-Lee",
+			"Geoffrey Hinton"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -356,7 +377,6 @@
 	{
 		"name": "[Engineer] - [Ancient era]",
 		"unitNames": [
-			"Archimedes",
 			"Imhotep",
 			"Hero of Alexandria",
 			"Ctesibius",
