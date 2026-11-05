@@ -35,7 +35,20 @@ Types: General, Khan, Admiral, Scientist, Engineer, Merchant, Artist, Writer, Mu
 ## Contributing names
 
 - Real, historical people only
-- Place them in the era they were most active, and under the type they are best known for
+- Place them in the era they were most active, and under the type they are best known for:
+
+  | Era | Years |
+  |---|---|
+  | Ancient | ~4000 BC – 500 BC |
+  | Classical | 499 BC – 799 AD |
+  | Medieval | 800 – 1399 |
+  | Renaissance | 1400 – 1799 |
+  | Industrial | 1800 – 1899 |
+  | Modern | 1900 – 1949 |
+  | Atomic | 1950 – 1990 |
+  | Information | 1991 – present |
+  | Future | Influential people alive today |
+
 - Use one spelling, and don't add someone already listed under the same type
 - Keep the file valid JSON, with tabs for indentation
 
