@@ -276,6 +276,20 @@
 		]
 	},
 	{
+		"name": "[General] - [Future era]",
+		"unitNames": [
+			"Valerii Zaluzhnyi",
+			"Christopher Cavoli",
+			"Charles Q. Brown Jr.",
+			"Nick Carter",
+			"Laura Richardson"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
+			"General"
+		]
+	},
+	{
 		"name": "[Admiral] - [Ancient era]",
 		"unitNames": [
 			"Nehsi",
@@ -445,6 +459,20 @@
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
+			"Admiral"
+		]
+	},
+	{
+		"name": "[Admiral] - [Future era]",
+		"unitNames": [
+			"Lisa Franchetti",
+			"Rob Bauer",
+			"Ben Key",
+			"John Aquilino",
+			"Samuel Paparo"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
 			"Admiral"
 		]
 	},
@@ -628,6 +656,20 @@
 		]
 	},
 	{
+		"name": "[Scientist] - [Future era]",
+		"unitNames": [
+			"Emmanuelle Charpentier",
+			"Svante Pääbo",
+			"Drew Weissman",
+			"Fei-Fei Li",
+			"Yann LeCun"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
+			"Scientist"
+		]
+	},
+	{
 		"name": "[Engineer] - [Ancient era]",
 		"unitNames": [
 			"Imhotep",
@@ -799,11 +841,24 @@
 			"Guido van Rossum",
 			"John Carmack",
 			"Shuji Nakamura",
-			"Lisa Su",
-			"Gwynne Shotwell"
+			"Lisa Su"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
+			"Engineer"
+		]
+	},
+	{
+		"name": "[Engineer] - [Future era]",
+		"unitNames": [
+			"Ken Thompson",
+			"Morris Chang",
+			"Andrej Karpathy",
+			"Mira Murati",
+			"Gwynne Shotwell"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
 			"Engineer"
 		]
 	},
@@ -975,6 +1030,20 @@
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
+			"Merchant"
+		]
+	},
+	{
+		"name": "[Merchant] - [Future era]",
+		"unitNames": [
+			"Warren Buffett",
+			"Bernard Arnault",
+			"Mukesh Ambani",
+			"Satya Nadella",
+			"MacKenzie Scott"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
 			"Merchant"
 		]
 	},
@@ -1551,6 +1620,48 @@
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
+			"Musician"
+		]
+	},
+	{
+		"name": "[Artist] - [Future era]",
+		"unitNames": [
+			"Hayao Miyazaki",
+			"El Anatsui",
+			"Julie Mehretu",
+			"Beeple",
+			"Refik Anadol"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
+			"Artist"
+		]
+	},
+	{
+		"name": "[Writer] - [Future era]",
+		"unitNames": [
+			"Salman Rushdie",
+			"Annie Ernaux",
+			"Han Kang",
+			"Ted Chiang",
+			"N. K. Jemisin"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
+			"Writer"
+		]
+	},
+	{
+		"name": "[Musician] - [Future era]",
+		"unitNames": [
+			"Paul McCartney",
+			"Dolly Parton",
+			"Yo-Yo Ma",
+			"Rosalía",
+			"Jacob Collier"
+		],
+		"uniques": [
+			"Only available <during the [Future era]>",
 			"Musician"
 		]
 	}
