@@ -49,6 +49,7 @@ Types: General, Khan, Admiral, Scientist, Engineer, Merchant, Artist, Writer, Mu
   | Information | 1991 – present |
   | Future | Influential people alive today |
 
+- People without a matching type go where their Great Person ability fits best: heads of state, diplomats and economists under Merchant (trade missions), religious leaders and activists under Prophet, and athletes and filmmakers under Artist (Golden Ages)
 - Use one spelling, and don't add someone already listed under the same type
 - Keep the file valid JSON, with tabs for indentation
 
