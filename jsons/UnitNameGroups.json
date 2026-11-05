@@ -53,7 +53,19 @@
 			"Ravidas",
 			"Joseph Smith",
 			"Paul the Apostle",
-			"Ramanuja"
+			"Ramanuja",
+			"John Paul II",
+			"Ruhollah Khomeini",
+			"Nelson Mandela",
+			"Lech Wałęsa",
+			"Princess Diana",
+			"Mother Teresa",
+			"Al Gore",
+			"Pope Francis",
+			"Malala Yousafzai",
+			"Greta Thunberg",
+			"Tarana Burke",
+			"Mohamed Bouazizi"
 		]
 	},
 	{
@@ -249,7 +261,8 @@
 			"William Westmoreland",
 			"Peng Dehuai",
 			"Ahmad Shah Massoud",
-			"Saad el-Shazly"
+			"Saad el-Shazly",
+			"Fidel Castro"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -268,7 +281,9 @@
 			"Tommy Franks",
 			"Ray Odierno",
 			"Lloyd Austin",
-			"Mark Milley"
+			"Mark Milley",
+			"Pervez Musharraf",
+			"Osama bin Laden"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -631,7 +646,9 @@
 			"Jonas Salk",
 			"Chien-Shiung Wu",
 			"Carl Sagan",
-			"Peter Higgs"
+			"Peter Higgs",
+			"Luc Montagnier",
+			"Robert Gallo"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -650,7 +667,9 @@
 			"Andrea Ghez",
 			"Katalin Karikó",
 			"Donna Strickland",
-			"Demis Hassabis"
+			"Demis Hassabis",
+			"Ian Wilmut",
+			"Craig Venter"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -727,7 +746,11 @@
 			"Guo Shoujing",
 			"Abbas ibn Firnas",
 			"Bi Sheng",
-			"Pierre de Montreuil"
+			"Pierre de Montreuil",
+			"Richard of Wallingford",
+			"Wang Zhen",
+			"Giovanni de' Dondi",
+			"Hugh Herland"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -841,7 +864,10 @@
 			"Guido van Rossum",
 			"John Carmack",
 			"Shuji Nakamura",
-			"Lisa Su"
+			"Lisa Su",
+			"Satoshi Nakamoto",
+			"Edward Snowden",
+			"Vitalik Buterin"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1000,7 +1026,13 @@
 			"Mary Kay Ash",
 			"Li Ka-shing",
 			"Dhirubhai Ambani",
-			"Ralph Lauren"
+			"Ralph Lauren",
+			"Mikhail Gorbachev",
+			"Ronald Reagan",
+			"Margaret Thatcher",
+			"Deng Xiaoping",
+			"Indira Gandhi",
+			"George H. W. Bush"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1026,7 +1058,28 @@
 			"Masayoshi Son",
 			"Ratan Tata",
 			"Lee Kun-hee",
-			"Larry Page"
+			"Larry Page",
+			"Bill Clinton",
+			"Boris Yeltsin",
+			"Tony Blair",
+			"Yasser Arafat",
+			"Yitzhak Rabin",
+			"Jiang Zemin",
+			"Kofi Annan",
+			"Alan Greenspan",
+			"Slobodan Milošević",
+			"Sergey Brin",
+			"Barack Obama",
+			"George W. Bush",
+			"Vladimir Putin",
+			"Hu Jintao",
+			"Angela Merkel",
+			"Ben Bernanke",
+			"Donald Trump",
+			"Xi Jinping",
+			"Narendra Modi",
+			"Emmanuel Macron",
+			"Shinzo Abe"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1493,7 +1546,9 @@
 			"Robert Rauschenberg",
 			"David Hockney",
 			"Keith Haring",
-			"Cindy Sherman"
+			"Cindy Sherman",
+			"Steven Spielberg",
+			"Diego Maradona"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1542,7 +1597,10 @@
 			"Bob Dylan",
 			"John Lennon",
 			"Jimi Hendrix",
-			"Fela Kuti"
+			"Fela Kuti",
+			"Michael Jackson",
+			"Madonna",
+			"Bob Geldof"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1562,7 +1620,12 @@
 			"Anish Kapoor",
 			"Yoshitomo Nara",
 			"Olafur Eliasson",
-			"Kehinde Wiley"
+			"Kehinde Wiley",
+			"Michael Jordan",
+			"Tiger Woods",
+			"Usain Bolt",
+			"Lionel Messi",
+			"Cristiano Ronaldo"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1586,7 +1649,9 @@
 			"Mo Yan",
 			"Elena Ferrante",
 			"Zadie Smith",
-			"Liu Cixin"
+			"Liu Cixin",
+			"J. K. Rowling",
+			"Julian Assange"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1612,7 +1677,9 @@
 			"Shakira",
 			"Adele",
 			"Billie Eilish",
-			"Bad Bunny"
+			"Bad Bunny",
+			"Kurt Cobain",
+			"Tupac Shakur"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
