@@ -48,7 +48,12 @@
 			"Wovoka",
 			"Yoshikazu Okada",
 			"Zhuang Zhou",
-			"Zoroaster"
+			"Zoroaster",
+			"Akhenaten",
+			"Ravidas",
+			"Joseph Smith",
+			"Paul the Apostle",
+			"Ramanuja"
 		]
 	},
 	{
@@ -61,7 +66,12 @@
 			"Batu Khan",
 			"Kublai Khan",
 			"Hulagu Khan",
-			"Ögedei Khan"
+			"Ögedei Khan",
+			"Jochi",
+			"Chagatai Khan",
+			"Tolui",
+			"Berke Khan",
+			"Kaidu"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -75,7 +85,12 @@
 			"Mandukhai Khatun",
 			"Altan Khan",
 			"Ligdan Khan",
-			"Galdan Boshugtu Khan"
+			"Galdan Boshugtu Khan",
+			"Esen Taishi",
+			"Tümen Jasagtu Khan",
+			"Abtai Sain Khan",
+			"Gushi Khan",
+			"Erdeni Batur"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -89,7 +104,12 @@
 			"Thutmose III",
 			"Ramesses II",
 			"Tiglath-Pileser III",
-			"Cyrus the Great"
+			"Cyrus the Great",
+			"Thutmose I",
+			"Ashurbanipal",
+			"Nebuchadnezzar II",
+			"Wu Ding",
+			"Fu Hao"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -107,7 +127,12 @@
 			"Epaminondas",
 			"Spartacus",
 			"Alexander the Great",
-			"Chandragupta Maurya"
+			"Chandragupta Maurya",
+			"Xenophon",
+			"Gaius Marius",
+			"Vercingetorix",
+			"Boudica",
+			"Han Xin"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -128,7 +153,12 @@
 			"El Cid",
 			"Joan of Arc",
 			"Minamoto no Yoshitsune",
-			"Alexander Nevsky"
+			"Alexander Nevsky",
+			"Khalid ibn al-Walid",
+			"Charles Martel",
+			"Basil II",
+			"Robert the Bruce",
+			"Yue Fei"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -146,7 +176,12 @@
 			"Duke of Marlborough",
 			"Turenne",
 			"Oda Nobunaga",
-			"Babur"
+			"Babur",
+			"Toyotomi Hideyoshi",
+			"Tokugawa Ieyasu",
+			"Suleiman the Magnificent",
+			"Oliver Cromwell",
+			"Shivaji"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -167,7 +202,12 @@
 			"Ulysses S. Grant",
 			"William Tecumseh Sherman",
 			"Giuseppe Garibaldi",
-			"Helmuth von Moltke"
+			"Helmuth von Moltke",
+			"Toussaint Louverture",
+			"José de San Martín",
+			"Stonewall Jackson",
+			"Tecumseh",
+			"Saigō Takamori"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -186,7 +226,12 @@
 			"Erwin Rommel",
 			"Bernard Montgomery",
 			"Georgy Zhukov",
-			"Heinz Guderian"
+			"Heinz Guderian",
+			"Paul von Hindenburg",
+			"Konstantin Rokossovsky",
+			"Erich von Manstein",
+			"Tomoyuki Yamashita",
+			"Charles de Gaulle"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -199,7 +244,12 @@
 			"Matthew Ridgway",
 			"Võ Nguyên Giáp",
 			"Moshe Dayan",
-			"Creighton Abrams"
+			"Creighton Abrams",
+			"Ariel Sharon",
+			"William Westmoreland",
+			"Peng Dehuai",
+			"Ahmad Shah Massoud",
+			"Saad el-Shazly"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -213,7 +263,12 @@
 			"Colin Powell",
 			"Stanley McChrystal",
 			"David Petraeus",
-			"James Mattis"
+			"James Mattis",
+			"Wesley Clark",
+			"Tommy Franks",
+			"Ray Odierno",
+			"Lloyd Austin",
+			"Mark Milley"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -226,7 +281,12 @@
 			"Nehsi",
 			"Ramesses III",
 			"Hanno the Navigator",
-			"Scylax of Caryanda"
+			"Scylax of Caryanda",
+			"Sahure",
+			"Necho II",
+			"Sennacherib",
+			"Polycrates",
+			"Ameinocles of Corinth"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -243,7 +303,12 @@
 			"Marcus Atilius Regulus",
 			"Marcus Vipsanius Agrippa",
 			"Himilco",
-			"Calonymus of Alexandria"
+			"Calonymus of Alexandria",
+			"Conon",
+			"Chabrias",
+			"Pompey",
+			"Artemisia I of Caria",
+			"Demetrius Poliorcetes"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -257,7 +322,12 @@
 			"Roger of Lauria",
 			"Rajendra Chola I",
 			"Enrico Dandolo",
-			"Zheng He"
+			"Zheng He",
+			"Harald Hardrada",
+			"Choe Mu-seon",
+			"Vettor Pisani",
+			"Carlo Zeno",
+			"Roger de Flor"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -280,7 +350,12 @@
 			"Maarten Tromp",
 			"Michiel de Ruyter",
 			"Jean Bart",
-			"Peter Tordenskjold"
+			"Peter Tordenskjold",
+			"Christopher Columbus",
+			"Vasco da Gama",
+			"Ferdinand Magellan",
+			"Kuki Yoshitaka",
+			"Koxinga"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -298,7 +373,12 @@
 			"George Dewey",
 			"Fernando Villaamil",
 			"Zinovy Rozhestvensky",
-			"Alfred von Tirpitz"
+			"Alfred von Tirpitz",
+			"John Paul Jones",
+			"Pierre André de Suffren",
+			"Thomas Cochrane",
+			"Edward Pellew",
+			"Wilhelm von Tegetthoff"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -316,7 +396,12 @@
 			"Marc A. Mitscher",
 			"Bruce Fraser",
 			"Louis Mountbatten",
-			"Karl Dönitz"
+			"Karl Dönitz",
+			"William Halsey",
+			"Raymond Spruance",
+			"Andrew Cunningham",
+			"Erich Raeder",
+			"Chūichi Nagumo"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -330,7 +415,12 @@
 			"Arleigh Burke",
 			"Elmo Zumwalt",
 			"Sergey Gorshkov",
-			"Sandy Woodward"
+			"Sandy Woodward",
+			"Liu Huaqing",
+			"Thomas H. Moorer",
+			"Henry Leach",
+			"Kinnaird McKee",
+			"James L. Holloway III"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -346,7 +436,12 @@
 			"James Stavridis",
 			"Mark Ferguson",
 			"Harry B. Harris Jr.",
-			"William H. McRaven"
+			"William H. McRaven",
+			"Michelle Howard",
+			"Wu Shengli",
+			"Tony Radakin",
+			"Vernon Clark",
+			"Michael Gilday"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -361,7 +456,12 @@
 			"Anaximander",
 			"Pythagoras",
 			"Baudhayana",
-			"Sushruta"
+			"Sushruta",
+			"Anaximenes",
+			"Heraclitus",
+			"Xenophanes",
+			"Kanada",
+			"Gan De"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -380,7 +480,12 @@
 			"Hipparchus",
 			"Ptolemy",
 			"Zhang Heng",
-			"Galen"
+			"Galen",
+			"Democritus",
+			"Aristarchus of Samos",
+			"Theophrastus",
+			"Pliny the Elder",
+			"Charaka"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -398,7 +503,12 @@
 			"Al-Biruni",
 			"Nasir al-Din al-Tusi",
 			"Al-Zahrawi",
-			"Omar Khayyam"
+			"Omar Khayyam",
+			"Brahmagupta",
+			"Shen Kuo",
+			"Averroes",
+			"Ibn al-Nafis",
+			"Roger Bacon"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -420,7 +530,12 @@
 			"Christiaan Huygens",
 			"William Harvey",
 			"Carl Linnaeus",
-			"Mikhail Lomonosov"
+			"Mikhail Lomonosov",
+			"René Descartes",
+			"Gottfried Wilhelm Leibniz",
+			"Antonie van Leeuwenhoek",
+			"Robert Hooke",
+			"Leonhard Euler"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -441,7 +556,12 @@
 			"Sadi Carnot",
 			"Alfred Nobel",
 			"Charles Darwin",
-			"Ada Lovelace"
+			"Ada Lovelace",
+			"Carl Friedrich Gauss",
+			"John Dalton",
+			"Alexander von Humboldt",
+			"Charles Lyell",
+			"Robert Koch"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -456,7 +576,12 @@
 			"Enrico Fermi",
 			"Werner Heisenberg",
 			"John von Neumann",
-			"Alan Turing"
+			"Alan Turing",
+			"Max Planck",
+			"Ernest Rutherford",
+			"Lise Meitner",
+			"Erwin Schrödinger",
+			"Srinivasa Ramanujan"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -471,7 +596,12 @@
 			"Francis Crick",
 			"James Watson",
 			"Stephen Hawking",
-			"Grace Hopper"
+			"Grace Hopper",
+			"Rosalind Franklin",
+			"Jonas Salk",
+			"Chien-Shiung Wu",
+			"Carl Sagan",
+			"Peter Higgs"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -485,7 +615,12 @@
 			"Kip Thorne",
 			"Ray Kurzweil",
 			"Geoffrey Hinton",
-			"Jennifer Doudna"
+			"Jennifer Doudna",
+			"Tu Youyou",
+			"Andrea Ghez",
+			"Katalin Karikó",
+			"Donna Strickland",
+			"Demis Hassabis"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -500,7 +635,12 @@
 			"Ineni",
 			"Senenmut",
 			"Amenhotep son of Hapu",
-			"Eupalinos of Megara"
+			"Eupalinos of Megara",
+			"Mandrocles of Samos",
+			"Theodorus of Samos",
+			"Rhoecus",
+			"Chersiphron",
+			"Sunshu Ao"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -517,7 +657,12 @@
 			"Li Bing",
 			"Vitruvius",
 			"Heron of Alexandria",
-			"Apollodorus of Damascus"
+			"Apollodorus of Damascus",
+			"Lu Ban",
+			"Diades of Pella",
+			"Dinocrates",
+			"Sextus Julius Frontinus",
+			"Ma Jun"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -535,7 +680,12 @@
 			"Al-Jazari",
 			"Leonardo Fibonacci",
 			"Villard de Honnecourt",
-			"Guo Shoujing"
+			"Guo Shoujing",
+			"Yuwen Kai",
+			"Li Chun",
+			"Abbas ibn Firnas",
+			"Bi Sheng",
+			"Pierre de Montreuil"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -553,7 +703,12 @@
 			"Pierre Vernier",
 			"Blaise Pascal",
 			"Christopher Wren",
-			"Vauban"
+			"Vauban",
+			"Johannes Gutenberg",
+			"Mariano Taccola",
+			"Cornelis Drebbel",
+			"Pierre-Paul Riquet",
+			"Thomas Newcomen"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -573,7 +728,12 @@
 			"Nikola Tesla",
 			"Karl Benz",
 			"Gottlieb Daimler",
-			"Henry Ford"
+			"Henry Ford",
+			"Richard Arkwright",
+			"Robert Fulton",
+			"Joseph Bazalgette",
+			"John A. Roebling",
+			"Rudolf Diesel"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -590,7 +750,12 @@
 			"Robert Goddard",
 			"Frank Lloyd Wright",
 			"Le Corbusier",
-			"Konrad Zuse"
+			"Konrad Zuse",
+			"Guglielmo Marconi",
+			"Willis Carrier",
+			"Hugo Junkers",
+			"Hedy Lamarr",
+			"Kelly Johnson"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -606,7 +771,12 @@
 			"Jack Kilby",
 			"Buckminster Fuller",
 			"Soichiro Honda",
-			"Norman Foster"
+			"Norman Foster",
+			"Hideo Shima",
+			"Fazlur Rahman Khan",
+			"Robert Noyce",
+			"Gordon Moore",
+			"Mary Jackson"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -625,7 +795,12 @@
 			"Steve Wozniak",
 			"Marc Andreessen",
 			"Jeff Dean",
-			"Yair Morgenstern"
+			"Yair Morgenstern",
+			"Guido van Rossum",
+			"John Carmack",
+			"Shuji Nakamura",
+			"Lisa Su",
+			"Gwynne Shotwell"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -639,7 +814,12 @@
 			"Hiram I of Tyre",
 			"Alyattes of Lydia",
 			"Croesus",
-			"Fan Li"
+			"Fan Li",
+			"Wenamun",
+			"Gyges of Lydia",
+			"Colaeus of Samos",
+			"Sostratus of Aegina",
+			"Bai Gui"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -653,7 +833,12 @@
 			"Lü Buwei",
 			"Marcus Licinius Crassus",
 			"Zhang Qian",
-			"Gan Ying"
+			"Gan Ying",
+			"Zigong",
+			"Zhuo Wangsun",
+			"Sang Hongyang",
+			"Lucius Caecilius Iucundus",
+			"Gaius Sergius Orata"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -668,7 +853,12 @@
 			"Mansa Musa",
 			"Francesco Datini",
 			"Jacques Cœur",
-			"Giovanni di Bicci de' Medici"
+			"Giovanni di Bicci de' Medici",
+			"Godric of Finchale",
+			"Pu Shougeng",
+			"Richard Whittington",
+			"Shen Wansan",
+			"Afanasy Nikitin"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -684,7 +874,12 @@
 			"Sir James Lancaster",
 			"Mitsui Takatoshi",
 			"John Law",
-			"Thomas Twining"
+			"Thomas Twining",
+			"Cosimo de' Medici",
+			"Gracia Mendes Nasi",
+			"Isaac Le Maire",
+			"Kinokuniya Bunzaemon",
+			"Josiah Child"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -705,7 +900,12 @@
 			"J.P. Morgan",
 			"Levi Strauss",
 			"Isidor Straus",
-			"Werner von Siemens"
+			"Werner von Siemens",
+			"Wu Bingjian",
+			"Eleuthère Irénée du Pont",
+			"Alfred Krupp",
+			"Marshall Field",
+			"Jamsetji Tata"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -720,7 +920,12 @@
 			"Coco Chanel",
 			"Walt Disney",
 			"Konosuke Matsushita",
-			"Calouste Gulbenkian"
+			"Calouste Gulbenkian",
+			"Gordon Selfridge",
+			"Madam C. J. Walker",
+			"Helena Rubinstein",
+			"Harvey Firestone",
+			"Kiichiro Toyoda"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -735,7 +940,12 @@
 			"Akio Morita",
 			"Lee Byung-chul",
 			"Ingvar Kamprad",
-			"Estée Lauder"
+			"Estée Lauder",
+			"Aristotle Onassis",
+			"Mary Kay Ash",
+			"Li Ka-shing",
+			"Dhirubhai Ambani",
+			"Ralph Lauren"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -756,7 +966,12 @@
 			"Sundar Pichai",
 			"Steve Jobs",
 			"Tim Cook",
-			"Jensen Huang"
+			"Jensen Huang",
+			"Oprah Winfrey",
+			"Masayoshi Son",
+			"Ratan Tata",
+			"Lee Kun-hee",
+			"Larry Page"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -770,7 +985,12 @@
 			"Bak",
 			"Sophilos",
 			"Exekias",
-			"Euphronios"
+			"Euphronios",
+			"Irtysen",
+			"Kleitias",
+			"Lydos",
+			"Amasis Painter",
+			"Dipylon Master"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -786,7 +1006,12 @@
 			"Hesiod",
 			"Sappho",
 			"Aesop",
-			"Valmiki"
+			"Valmiki",
+			"Ptahhotep",
+			"Vyasa",
+			"Archilochus",
+			"Tyrtaeus",
+			"Alcman"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -800,7 +1025,12 @@
 			"Orpheus",
 			"Terpander",
 			"Arion",
-			"Sakadas of Argos"
+			"Sakadas of Argos",
+			"Olympus",
+			"Thaletas of Gortyn",
+			"Clonas",
+			"Polymnestus",
+			"Shi Kuang"
 		],
 		"uniques": [
 			"Only available <during the [Ancient era]>",
@@ -817,7 +1047,12 @@
 			"Praxiteles",
 			"Lysippos",
 			"Apelles",
-			"Gu Kaizhi"
+			"Gu Kaizhi",
+			"Polygnotus",
+			"Parrhasius",
+			"Timanthes",
+			"Scopas",
+			"Agesander of Rhodes"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -837,7 +1072,12 @@
 			"Sima Qian",
 			"Virgil",
 			"Ovid",
-			"Kalidasa"
+			"Kalidasa",
+			"Thucydides",
+			"Cicero",
+			"Horace",
+			"Seneca",
+			"Thiruvalluvar"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -853,7 +1093,12 @@
 			"Li Yannian",
 			"Seikilos",
 			"Mesomedes of Crete",
-			"Cai Yan"
+			"Cai Yan",
+			"Pindar",
+			"Lasus of Hermione",
+			"Damon of Athens",
+			"Philoxenus of Cythera",
+			"Ji Kang"
 		],
 		"uniques": [
 			"Only available <during the [Classical era]>",
@@ -870,7 +1115,12 @@
 			"Duccio",
 			"Giotto",
 			"Theophanes the Greek",
-			"Andrei Rublev"
+			"Andrei Rublev",
+			"Gu Hongzhong",
+			"Mi Fu",
+			"Zhang Zeduan",
+			"Simone Martini",
+			"Ambrogio Lorenzetti"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -891,7 +1141,12 @@
 			"Dante Alighieri",
 			"Petrarch",
 			"Giovanni Boccaccio",
-			"Geoffrey Chaucer"
+			"Geoffrey Chaucer",
+			"Bai Juyi",
+			"Chrétien de Troyes",
+			"Wolfram von Eschenbach",
+			"Hafez",
+			"Christine de Pizan"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -910,7 +1165,12 @@
 			"Adam de la Halle",
 			"Philippe de Vitry",
 			"Guillaume de Machaut",
-			"John Dunstaple"
+			"John Dunstaple",
+			"Kassia",
+			"Notker the Stammerer",
+			"Bernart de Ventadorn",
+			"Beatriz de Dia",
+			"Francesco Landini"
 		],
 		"uniques": [
 			"Only available <during the [Medieval era]>",
@@ -932,7 +1192,12 @@
 			"Caravaggio",
 			"Peter Paul Rubens",
 			"Diego Velázquez",
-			"Rembrandt"
+			"Rembrandt",
+			"Donatello",
+			"Hans Holbein the Younger",
+			"Pieter Bruegel the Elder",
+			"Artemisia Gentileschi",
+			"Johannes Vermeer"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -951,7 +1216,12 @@
 			"John Milton",
 			"Molière",
 			"Matsuo Bashō",
-			"Voltaire"
+			"Voltaire",
+			"Christopher Marlowe",
+			"Lope de Vega",
+			"Daniel Defoe",
+			"Jonathan Swift",
+			"Cao Xueqin"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -973,7 +1243,12 @@
 			"Claudio Monteverdi",
 			"Antonio Vivaldi",
 			"Johann Sebastian Bach",
-			"George Frideric Handel"
+			"George Frideric Handel",
+			"Guillaume Dufay",
+			"Barbara Strozzi",
+			"Henry Purcell",
+			"Arcangelo Corelli",
+			"Jean-Philippe Rameau"
 		],
 		"uniques": [
 			"Only available <during the [Renaissance era]>",
@@ -993,7 +1268,12 @@
 			"Mary Cassatt",
 			"Paul Cézanne",
 			"Auguste Rodin",
-			"Vincent van Gogh"
+			"Vincent van Gogh",
+			"Jacques-Louis David",
+			"Caspar David Friedrich",
+			"Utagawa Hiroshige",
+			"Berthe Morisot",
+			"Pierre-Auguste Renoir"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -1012,7 +1292,12 @@
 			"Fyodor Dostoevsky",
 			"Leo Tolstoy",
 			"Jules Verne",
-			"Mark Twain"
+			"Mark Twain",
+			"Alexander Pushkin",
+			"Charlotte Brontë",
+			"Herman Melville",
+			"Emily Dickinson",
+			"Oscar Wilde"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -1038,7 +1323,12 @@
 			"Giacomo Puccini",
 			"Gustav Mahler",
 			"Richard Strauss",
-			"Scott Joplin"
+			"Scott Joplin",
+			"Frédéric Chopin",
+			"Franz Liszt",
+			"Clara Schumann",
+			"Richard Wagner",
+			"Giuseppe Verdi"
 		],
 		"uniques": [
 			"Only available <during the [Industrial era]>",
@@ -1056,7 +1346,12 @@
 			"Georgia O'Keeffe",
 			"René Magritte",
 			"Salvador Dalí",
-			"Frida Kahlo"
+			"Frida Kahlo",
+			"Edvard Munch",
+			"Amedeo Modigliani",
+			"Marc Chagall",
+			"Piet Mondrian",
+			"Edward Hopper"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -1075,7 +1370,12 @@
 			"F. Scott Fitzgerald",
 			"Ernest Hemingway",
 			"Agatha Christie",
-			"Langston Hughes"
+			"Langston Hughes",
+			"Anton Chekhov",
+			"Thomas Mann",
+			"T. S. Eliot",
+			"Federico García Lorca",
+			"Zora Neale Hurston"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -1097,7 +1397,12 @@
 			"Louis Armstrong",
 			"George Gershwin",
 			"Duke Ellington",
-			"Billie Holiday"
+			"Billie Holiday",
+			"Sergei Rachmaninoff",
+			"Heitor Villa-Lobos",
+			"Bessie Smith",
+			"Benny Goodman",
+			"Édith Piaf"
 		],
 		"uniques": [
 			"Only available <during the [Modern era]>",
@@ -1114,7 +1419,12 @@
 			"Andy Warhol",
 			"Roy Lichtenstein",
 			"Yayoi Kusama",
-			"Jean-Michel Basquiat"
+			"Jean-Michel Basquiat",
+			"Louise Bourgeois",
+			"Joan Mitchell",
+			"Robert Rauschenberg",
+			"David Hockney",
+			"Keith Haring"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1133,7 +1443,12 @@
 			"Doris Lessing",
 			"Margaret Atwood",
 			"Ursula K. Le Guin",
-			"Philip K. Dick"
+			"Philip K. Dick",
+			"Albert Camus",
+			"Jorge Luis Borges",
+			"Yukio Mishima",
+			"Chinua Achebe",
+			"Gabriel García Márquez"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1155,7 +1470,12 @@
 			"Elvis Presley",
 			"Johnny Cash",
 			"Aretha Franklin",
-			"Bob Marley"
+			"Bob Marley",
+			"Ravi Shankar",
+			"Bob Dylan",
+			"John Lennon",
+			"Jimi Hendrix",
+			"Fela Kuti"
 		],
 		"uniques": [
 			"Only available <during the [Atomic era]>",
@@ -1171,7 +1491,12 @@
 			"Ai Weiwei",
 			"Kara Walker",
 			"Shepard Fairey",
-			"Banksy"
+			"Banksy",
+			"Cindy Sherman",
+			"Anish Kapoor",
+			"Yoshitomo Nara",
+			"Olafur Eliasson",
+			"Kehinde Wiley"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1191,7 +1516,12 @@
 			"Jonathan Franzen",
 			"China Miéville",
 			"Octavia E. Butler",
-			"Chimamanda Ngozi Adichie"
+			"Chimamanda Ngozi Adichie",
+			"Orhan Pamuk",
+			"Mo Yan",
+			"Elena Ferrante",
+			"Zadie Smith",
+			"Liu Cixin"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
@@ -1212,7 +1542,12 @@
 			"Joel Zimmerman",
 			"Taylor Swift",
 			"Alejandro Ghersi",
-			"Christopher Breaux"
+			"Christopher Breaux",
+			"Hans Zimmer",
+			"Shakira",
+			"Adele",
+			"Billie Eilish",
+			"Bad Bunny"
 		],
 		"uniques": [
 			"Only available <during the [Information era]>",
